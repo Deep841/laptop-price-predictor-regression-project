@@ -1,6 +1,9 @@
-# laptop-price-predictor-regression-project
+# 💻 Laptop Price Predictor Regression Project
+
 ---
 
-##✅ Cloned your Laptop Price Predictor Regression GitHub repo
-##✅ Run it locally on localhost:8501 (so Streamlit app is working fine)
-##✅ Built a Docker image of that project
+## ✅ Progress Summary
+
+- ✅ Cloned your **Laptop Price Predictor Regression** GitHub repository  
+- ✅ Ran it locally on **localhost:8501** (Streamlit app working fine)  
+- ✅ Built a **Docker image** of the project  
